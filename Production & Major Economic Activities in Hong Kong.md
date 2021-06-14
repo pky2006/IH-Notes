@@ -68,7 +68,7 @@ The relative importance 相對重要性 of each type of production to an economy
 
 ## i/Primary production 
 
-Primary production is insignificant 微不足道 in Hong Kong in terms of its contribution 貢獻to the total value of production 生產總值, as shown in the following table. Hong Kong is densely populated and hilly 口稠密，丘陵多. In 2012, only 0.6% of its area (7 km2) out of 1,104 km2 was actively farmed 積極養殖. Farms are generally small and produce mainly leafy vegetables, pigs or poultry 葉類蔬菜、豬或家禽. 
+Primary production is insignificant 微不足道 in Hong Kong in terms of its contribution 貢獻to the total value of production 生產總值, as shown in the following table. Hong Kong is densely populated and hilly 口稠密，丘陵多. In 2012, only 0.6% of its area (7 $$km^2$$) out of 1,104 $$km^2$$ was actively farmed 積極養殖. Farms are generally small and produce mainly leafy vegetables, pigs or poultry 葉類蔬菜、豬或家禽. 
 
 ## ii/Secondary production
 
